@@ -1,0 +1,8 @@
+{
+  "app_path": "monitored_app/VerdantAbyss_game/VerdantAbyss_game/Practica 5.exe",
+  "app_name": "Practica 5.exe",
+  "port": 5001,
+  "max_ram_mb": 800,
+  "max_cpu_percent": 85,
+  "check_interval": 3
+}
