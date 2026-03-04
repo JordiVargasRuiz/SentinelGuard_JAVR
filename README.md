@@ -15,7 +15,7 @@ El código fuente se organiza en módulos claramente diferenciados:
   - `socket_server.py` – servidor TCP localhost que ofrece una API simple (`status`/`restart`).
 
 - **`gui/`** – implementación de la interfaz de usuario con Tkinter (`sentinel_gui.py`), que visualiza el estado y permite reinicios manuales.
-- <img width="405" height="328" alt="image" src="https://github.com/user-attachments/assets/4555abb6-bafa-4e4a-8af2-4288e10bdd44" />
+<img width="405" height="328" alt="image" src="https://github.com/user-attachments/assets/4555abb6-bafa-4e4a-8af2-4288e10bdd44" />
 
 
 - **`config/`** – configuración en formato JSON (`config.json`) con parámetros ajustables (ruta del ejecutable, umbrales, puerto, etc.).
