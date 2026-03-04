@@ -83,7 +83,7 @@ recursos, errores internos) en `logs/sentinel.log`. Cada entrada incluye una mar
 de tiempo para facilitar auditorías y diagnóstico.
 
 <img width="411" height="336" alt="image" src="https://github.com/user-attachments/assets/ab1f3484-9818-422a-b246-556cb406bb9f" />
-<img width="401" height="325" alt="image" src="https://github.com/user-attachments/assets/adb3fbc4-651c-4c5d-8067-f19fe128454c" />
+<img width="411" height="336" alt="image" src="https://github.com/user-attachments/assets/adb3fbc4-651c-4c5d-8067-f19fe128454c" />
 
 ---
 
