@@ -72,6 +72,7 @@ Asegúrese de que los valores sean coherentes con los requisitos de la aplicaci�
 4. **Comunicarse mediante socket**:
    Conéctese a `localhost:<port>` y envíe la cadena `status` para obtener un JSON
    con el estado actual, o `restart` para solicitar un reinicio.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/179ab243-ac53-4d0a-b030-c0c4694e8394" />
 
 ---
 
@@ -80,6 +81,8 @@ Asegúrese de que los valores sean coherentes con los requisitos de la aplicaci�
 El sistema de logging escribe sucesos relevantes (reinicios, caídas, excedencias de
 recursos, errores internos) en `logs/sentinel.log`. Cada entrada incluye una marca
 de tiempo para facilitar auditorías y diagnóstico.
+<img width="411" height="336" alt="image" src="https://github.com/user-attachments/assets/ab1f3484-9818-422a-b246-556cb406bb9f" />
+<img width="401" height="325" alt="image" src="https://github.com/user-attachments/assets/adb3fbc4-651c-4c5d-8067-f19fe128454c" />
 
 ---
 
