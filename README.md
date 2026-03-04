@@ -19,6 +19,9 @@ El código fuente se organiza en módulos claramente diferenciados:
 - **`config/`** – configuración en formato JSON (`config.json`) con parámetros ajustables (ruta del ejecutable, umbrales, puerto, etc.).
 
 - **`logs/`** – directorio de salida para los registros de eventos (`sentinel.log`).
+<img width="410" height="688" alt="image" src="https://github.com/user-attachments/assets/c84a5062-fa95-4938-80a6-96e695f5ed10" />
+
+
 
 - **`monitored_app/`** – contiene un ejemplo de aplicación empaquetada; en un despliegue real, se apunta a cualquier ejecutable de interés.
 
